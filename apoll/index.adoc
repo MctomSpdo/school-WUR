@@ -1,0 +1,70 @@
+= Wirtschaft und Recht Apoll
+Thomas Spindler
+1.0.0, {docdate}: WRWI
+ifndef::imagesdir[:imagesdir: images]
+:icons: font
+:sectnums:    // Nummerierung der Überschriften / section numbering
+:stylesheet: ../css/dark.css
+:toc: left
+
+== Einführung
+
+Immer wieder texte auf Teams, die innerhalb von 5 Sätzen oder Zeilen zusammengefasst werden sollen.
+
+Testtermin 9. Dezember (Verschieben möglich)
+
+Testtermin 12. Main (Verschieben möglich)
+
+Geht um verständnis, kein multiple choice
+
+=== Stoff
+
+* Wirtschaft definieren
+* Rechnungswesen
+* Personalverrechnugn
+* Führungsgechniken
+* Wirtschaft
+* Produktionsfaktoren
+* Angebot und Nachfrage
+
+== Definition von Wirtschaft
+
+=== Begriffspaare
+
+Verkäufer <--> Käufer +
+Produkte <--> Konsument +
+Angebot <--> Nachfrage +
+Unternehmen <--> Haushalt
+
+[plantuml, ag-an]
+----
+@startuml
+
+skinparam backgroundcolor lightgray
+skinparam shadowing false
+
+(Arbeitgeber)
+(Arbeitnehmer)
+
+(Arbeitgeber) --> (Arbeitnehmer) : Geld
+(Arbeitgeber) --> (Arbeitnehmer) : Geld (Kantine,...)
+(Arbeitnehmer) --> (Arbeitgeber) : Leistung
+
+@enduml
+----
+
+* Geld
+* Produkte
+* Dienstleistungen
+
+=== Bedürfnisse
+
+* Grundbedürfnisse: lebesnotwendige B.
+* Soziale Bedürfnisse: Kultur - B.
+* Luxus Bedürfnisse:
+
+.Maslow's Pyramide (nicht Stoff):
+[%collapsible]
+====
+image::maslows-pyramide.png[maslows's pyramide, 300, 300]
+====

@@ -1,0 +1,45 @@
+= Wirtschaft und Recht
+Thomas Spindler
+1.0.0, {docdate}: WRRE
+ifndef::imagesdir[:imagesdir: images]
+//:toc-placement!:  // prevents the generation of the doc at this position, so it can be printed afterwards
+:sourcedir: ../src/main/java
+:icons: font
+:sectnums:    // Nummerierung der Überschriften / section numbering
+:toc: left
+:stylesheet: ../css/dark.css
+
+== Einführung
+
+eine schriftliche Leistungsüberprüfung im Schuljahr, warscheinlich Dezember
+
+Termin: 01.12.2022
+
+Verschieben möglich, wenn dies benötigt wird
+
+Teile der Noten:
+
+* Test
+* Mitarbeit
+* Dauerhausübung
+
+=== Dauerhausübung:
+
+Aktuell halten, vor allem was in der Welt passiert, aus Qualitätsmedien
+
+IMPORTANT: Jeden Montag wird gefragt, was wir gelesen haben.
+
+Was wir hierbei nicht mitnehmen:
+
+* Kronenzeitung
+* Schnell-pop-up news
+* Nachrichten ohne Erklärung
+
+Was wir hierbei nehmen:
+
+* Die Presse
+* Die Zeit
+* Valter
+* Kurier
+* OÖ Nachrichten (etwas aufpassen)
+* Der Spiegel (ist allerdings deutsches Recht)
