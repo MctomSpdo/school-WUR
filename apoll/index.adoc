@@ -57,6 +57,9 @@ skinparam shadowing false
 * Produkte
 * Dienstleistungen
 
+.Erweiteter Wirschaftskreislauf
+image::wirtschaftskreislauf.png[]
+
 === Bedürfnisse
 
 * Grundbedürfnisse: lebesnotwendige B.
@@ -68,3 +71,62 @@ skinparam shadowing false
 ====
 image::maslows-pyramide.png[maslows's pyramide, 300, 300]
 ====
+
+=== Prinzipien
+
+link:https://a.digi4school.at/ebook/6328/?page=20[Buch S.3]
+
+* Ökonomisches Prinzip: wenig Verschwendung
+* Minimalprinzip: aufwand minimieren
+* Maximalprinzip: das Ergebnis maximieren
+
+=== Marktwirtschaft
+
+==== Freie Marktwirtschaft
+
+Der Markt wird nicht von der Polikik geregelt
+
+**Das Problem:**
+
+* Sachen wie Miete werden unendlich teuer
+* Was nicht gewinnbringend ist, wird nicht gemacht (vor allem Infrastruktur) -> Staat
+
+Dienstleistungen und Güter, die niemand anbietet (weil nicht Gewinnbringend)
+
+[plantuml, gewinn]
+----
+@startuml
+
+skinparam backgroundcolor lightgray
+skinparam shadowing false
+
+(Gewinn) --> (Steuern)
+(Gewinn) --> (Einkommen)
+(Gewinn) --> (Innovation)
+(Gewinn) --> (Arbeitsplatz)
+(Gewinn) --> (Wohlstand)
+
+@enduml
+----
+
+Multiplikator: Wenn einer gute Idee hat, gibt es Arbeitsplätze, und man gibt das Geld wieder aus
+
+Produktionsmittel sind im Privateigentum
+
+==== Soziale Marktwirtschaft
+
+Soziale Marktwirtschaft ist für benachteiligte, die nicht normal arbeiten können
+
+Beispiele:
+
+* Arbeitslosengeld
+
+Die Leute werden mit einem System versorgt (Bildung, Gesundheit, ...)
+
+==== Ökosoziale Marktwirtschaft
+
+Ökologie?
+
+Umwelt, Umweltschutz
+
+Der Staat greift regulierend ein, und schütz dadurch die Menschen und Umwelt, der Markt is außerhalb dieser Eingriffe sonst aber frei.
