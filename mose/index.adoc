@@ -11,7 +11,7 @@ ifndef::imagesdir[:imagesdir: images]
 
 == Einführung
 
-eine schriftliche Leistungsüberprüfung im Schuljahr, warscheinlich Dezember
+eine schriftliche Leistungsüberprüfung im Schuljahr, wahrscheinlich Dezember
 
 Termin: 01.12.2022
 
@@ -74,4 +74,3 @@ nachgiebiges Recht kann ausgemacht oder abgesprochen werden.
 * Verordnung: Gilt sofort für alle (DSGVO) +
 * Richtlinie: muss zuerst in nationales Recht umgewandelt werden (z.B Anti - Diskriminierung)
 * Verfassungsrecht: hat einen sehr hohen stellen
-*
