@@ -158,3 +158,22 @@ Voraussetzungen
 * Klima
 
 => es wird dort produziert, wo die Kosten am niedrigsten sind!
+
+== EBIT
+
+Earnings +
+Before +
+intereset & (Zinsen) +
+Tax
+
+Depreciation +
+Amortisation
+
+== Betrieb:
+
+Kombination der Produktionsfaktoren
+
+* Arbeit (Körperlicht, Geistig)
+* Boden
+* Kapital
+* Know How
