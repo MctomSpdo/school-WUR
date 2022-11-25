@@ -1,31 +1,32 @@
 name: convert
 
-on: push
+on: 
+  push:
+    branches: [ master ]
+  workflow_dispatch:
 
 jobs:
-  first_job:
+  convert:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Downloading asciidoctor
-        run: sudo apt-get install -y asciidoctor
+      - name: Check out code
+        uses: actions/checkout@v2
 
-      - name: Path
-        run: pwd
-
-      - name: all files
-        run: ls -a
-
-      - name: Remove index.html
-        uses: JesseTG/rm@v1.0.3
+      - name: Convert index.html
+        id: documents
+        uses: Analog-inc/asciidoctor-action@master
         with:
-          path: index.html
+          shellcommand: "asciidoctor index.adoc -r asciidoctor-diagram -a allow-uri-read -a data-uri -a toc=left" 
 
-      - name: Converting index.adoc
-        run: rm index.html && asciidoctor index.adoc
-        
-      - name: Converting apoll/index.adoc
-        run: cd apoll/ && asciidoctor && rm index.html && asciidoctor index.adoc
-      
-      - name: Converting mose/index.adoc
-        run: cd mose/ && asciidoctor && rm index.html && asciidoctor index.adoc
+      - name: Convert apoll/index.adoc
+        id: documents
+        uses: Analog-inc/asciidoctor-action@master
+        with:
+          shellcommand: "asciidoctor apoll/index.adoc -r asciidoctor-diagram -a allow-uri-read -a data-uri -a toc=left" 
+
+      - name: Convert mose/index.adoc
+        id: documents
+        uses: Analog-inc/asciidoctor-action@master
+        with:
+          shellcommand: "asciidoctor mose/index.adoc -r asciidoctor-diagram -a allow-uri-read -a data-uri -a toc=left" 
