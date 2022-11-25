@@ -11,10 +11,10 @@ jobs:
         run: sudo apt-get install -y asciidoctor
 
       - name: Converting index.adoc
-        run: asciidoctor index.adoc
+        run: rm index.html && asciidoctor index.adoc
         
       - name: Converting apoll/index.adoc
-        run: cd apoll/ && asciidoctor && asciidoctor index.adoc
+        run: cd apoll/ && asciidoctor && rm index.html && asciidoctor index.adoc
       
       - name: Converting mose/index.adoc
-        run: cd mose/ && asciidoctor && asciidoctor index.adoc
+        run: cd mose/ && asciidoctor && rm index.html && asciidoctor index.adoc
