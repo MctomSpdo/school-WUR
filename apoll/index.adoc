@@ -188,3 +188,60 @@ Produktionsfaktoren:
 * Wissen
 
 Die meisten haben die höchste Priorität, heute und auch in Zukunft, denn nichts würde funktionieren ohne Arbeit, Kapital und Wissen. Boden ist teilweise unnötig, wenn man ein digitales Projekt hat oder eine Verkaufsmethode verwendet, wo man das Produkt nicht einmal gesehen hat.
+
+== Angebot und Nachfrage, Preisbildung
+
+=== Angebot
+
+Menge, die verkauft werden soll/kann
+
+zu bestimmten Preis
+
+Preis: zeigt Behliebtheit
+
+=== Nachfrage
+
+Bedürfnisse (wette ich gern) führen zu Bedarf (brauch ich wirklich)
+
+Kaufkraft: wie viel ich mich um mein Geld kaufen kann
+
+=== Substitutonsgut ("Ersatz Nutzen")
+
+Butter <=> Margarine
+
+Endefeckt das gleiche mit dem gleichen Grundnutzen
+
+=== Komplementärgut ("Ergänzung")
+
+Auto Grundstück
+
+Wenn man sich ein Auto kauft braucht man sachen dazu. z.B. Pannendreieck, Sprit, Versicherung, ...
+
+Gleiches mit dem Haus -> man braucht nicht nur das Grundstück sondern auch Ziegel, Dach, Fliesen, ...
+
+
+=== Bestimmungsfaktoren vom Anbieter: Preis?
+
+* Herstellkosten
+* Zeit
+* Konkurenz
+* Gewinn
+* USP (Einzigheitigkeit), Ideee
+* Technologie
+* Preis (Handy um 50.000€ wird sich nicht verkaufen)
+* Marktanteil
+
+=== Bestimmungsfaktoren von der Nachfrage: Preis?
+
+* Preis 
+* Preis Substitutionsgut
+* Preisleistungsverhältnis
+* Wertschätzung
+* Nutzen
+* Einkommen
+* Qualität
+* Zusatzleistung
+
+
+
+Preis Angebot Diagramm fehlt -> Tafel nachholen
