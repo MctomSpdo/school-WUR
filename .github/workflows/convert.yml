@@ -16,6 +16,11 @@ jobs:
       - name: all files
         run: ls -a
 
+      - name: Remove index.html
+        uses: JesseTG/rm@v1.0.3
+        with:
+          path: index.html
+
       - name: Converting index.adoc
         run: rm index.html && asciidoctor index.adoc
         
