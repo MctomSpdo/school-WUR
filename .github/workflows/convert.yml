@@ -1,0 +1,17 @@
+name: convert
+
+on: push
+
+jobs:
+  first_job:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Converting index.adoc
+        run: asciidoctor index.adoc
+        
+      - name: Converting apoll/index.adoc
+        run: cd apoll/ && asciidoctor && asciidoctor index.adoc
+      
+      - name: Converting mose/index.adoc
+        run: cd mose/ && asciidoctor && asciidoctor index.adoc
