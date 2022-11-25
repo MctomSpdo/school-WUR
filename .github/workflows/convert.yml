@@ -7,6 +7,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Downloading asciidoctor
+        run: sudo apt-get install -y asciidoctor
+
       - name: Converting index.adoc
         run: asciidoctor index.adoc
         
