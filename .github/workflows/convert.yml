@@ -10,6 +10,9 @@ jobs:
       - name: Downloading asciidoctor
         run: sudo apt-get install -y asciidoctor
 
+      - name: Path
+        run: pwd
+
       - name: Converting index.adoc
         run: rm index.html && asciidoctor index.adoc
         
