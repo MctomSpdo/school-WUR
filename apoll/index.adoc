@@ -233,7 +233,7 @@ Gleiches mit dem Haus -> man braucht nicht nur das Grundstück sondern auch Zieg
 
 === Bestimmungsfaktoren von der Nachfrage: Preis?
 
-* Preis 
+* Preis
 * Preis Substitutionsgut
 * Preisleistungsverhältnis
 * Wertschätzung
@@ -243,3 +243,39 @@ Gleiches mit dem Haus -> man braucht nicht nur das Grundstück sondern auch Zieg
 * Zusatzleistung
 
 Preis Angebot Diagramm fehlt -> Tafel nachholen
+
+
+* Homogenität (Vergleichbarkeit)
+* Freier Markteintritt
+* Verhalten: Vernünftig!
+** homogen:
+
+keine
+
+* zeitlich
+* persönlich
+* sachlich
+* Räumlich
+
+Präferenzen
+
+* Monopol: 1 Anbieter oder 1 Nachfrager -> Preis sehr hoch
+* Oligopol: wenige Anbieter oder Nachfrager -> Preis hoch
+* Polypol: sehr viele -> Preis niedrig
+
+-> Service (Bio, regionales)
+-> Kundenbindung
+
+== Teststoff
+
+* [...]
+* Produktionsfaktoren
+* Standortsfaktoren
+* Angebot, Nachfrage und Preis
+
+.Beispielfragen
+[%collapsible]
+====
+* Was ist soziale Marktwirtschaft?
+* Arbeitsteilung freie Mark wirtschaft?
+====
