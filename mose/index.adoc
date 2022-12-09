@@ -128,3 +128,33 @@ Bei Abnutzung gibt es keine Gewährleistung
 
 Im 1. Jahr beim Händler, danach beim Kunden
 
+=== Bestandteile des Schadenersatzes
+
+* Schaden
+** Sachschaden
+** Personenschaden
+* Ein Ereignis, was den Schaden auslöst
+* Rechtswidrigkeit
+** Vertrag gebrochen
+** Gesetz gebrochen
+* Verschulde
+** vorsätzliches Handeln
+** Fahrlässigkeit
+*** leichte
+*** grobe
+
+== Teststoff
+
+* Rechtsordnung
+** Öffentliches Recht
+** Privates Recht
+* Personenrecht
+** Geschäftsfähigkeit
+** Deliktsfähigkeit
+** Leben / Tod definition
+** Jugendschutz / Erwachsenenschutz
+* Schuldrecht
+** Verträge
+** Vertragswidrichkeiten
+** Schadensersatz
+* Haftung von Aufsichtspersonen
