@@ -279,3 +279,35 @@ Präferenzen
 * Was ist soziale Marktwirtschaft?
 * Arbeitsteilung freie Mark wirtschaft?
 ====
+
+== Wirtschafts Pole
+
+=== Monopole
+
+Preis sehr hoch
+
+z.B. 
+
+* es gibt nur eine Bahn und keinen andere
+* nur Austrian Airline
+
+=== Oligopol
+
+Preis ziemlich hoch 
+
+Z.B.
+
+* Netzbetreiber (es gibt schon einige, aber )
+
+=== Polypol
+
+viele Anbieter
+
+==== Anwerben 
+
+* Rabatte
+* Zusatzleistungen
+** Bio - Regional
+** Service (Spar ab 50€ bringen wir ihr Ihren Einkauf nach Hause)
+** Kundenbindungsaktionen
+* Eigenmarken (Clever, SBuget -> für den Kunden nicht leicht vergleichbar, eigenes Marketing)
