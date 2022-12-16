@@ -279,3 +279,91 @@ Präferenzen
 * Was ist soziale Marktwirtschaft?
 * Arbeitsteilung freie Mark wirtschaft?
 ====
+
+== Test Verbesserung
+
+=== Vergleiche das Modell der sozialen und der freien Marktwirtschaft miteinander
+
+* Freie Marktwirschaft:
+** Von privatpersonen geleitete Firmen, diese Firmen müssen Profit und / oder Gewinn machen.
+** Wenn der Markt gut läuft, dann gibt es Wohlstand
+** Ich kann mich frei entscheiden, was ich arbeite, welchen Beruf ich habe und wo ich Wohne
+** Die Produktionsmittel sind im Privateigentum
+** Ich mach etwas, das Endergebnis kann ich mir dann auch selber behalten
+** Nur möglich, wenn ich arbeitsfähig und leistungsfähig bin
+*** Probleme bei eingeschränkten Personen
+** Mann muss sich nach den Kunden richten
+** Ist im Grunde genommen ein gigantischer Wettbewerb
+** Wenn ich etwas gerne mache, dann
+*** mache ich dies gerne
+*** mache ich dies gut
+** wenn viele Leute etwas tun, dann gibt es
+*** viele Steuern
+*** viele Arbeitsplätze
+*** Wohlstand
+* Soziale Marktwirtschaft
+** Der Staat übernimmt die Aufgaben, die nicht gewinnbringend sind
+*** Kanalisierung
+*** Schulen
+*** Öffentliche Verkehrsmittel
+*** Umschulungen
+* Ökosoziale Marktwirschaft
+** Staat greift ein, um die Umwelt zu schützen
+*** Strafen & Förderungen
+** Altstoffsammelzentrum
+** Recycling
+
+=== Arbeitsteilung allgemein: Ziel, Wirkungsweise; Entwicklung in Zukunft
+
+* Arbeitsteilung
+** Spezialisierung
+*** jeder macht dass, was er am besten kann
+** Grenzen:
+*** Monotonie (erhöht Fehlerrate, Motivation sinkt)
+**** Rotation
+**** Enrichment
+**** Enlargement
+** horizontale Arbeitsteilung:
+** vertikale Arbeitsteilung
+*** primär (der eine Baut das Getreide an)
+*** tertiär (der nächste Mahlt dies zu Getreide)
+
+Bsp vertikale Arbeitsteilung:
+
+* Produktion (Bauern, Bergbau)
+* Transport
+* Weiterverarbeitung (z. B. Mehl mahlen)
+* Transport
+* Weiterverarbeitung (z. B. Brot backen)
+* Transport
+
+Hierbei gehen die Arbeitsplätze in primären Sektor (Bauern, Bergbau)
+
+Tertiärer Sektor:
+
+* gut bezahlt
+* oft Büroarbeit
+* nicht anstrengend
+* kann nicht durch Roboter ersetzt werden
+
+Internationale Arbeitsteilung
+
+* Industrieländer & Fortgeschrittene Länder
+* Produktionen können ausgelagert werden
+* Dort gibt es
+** billige Arbeitskräfte
+** Rohstoffe
+** know how
+** Klimabestimmungen
+* extreme Lohnniveau unterscheide
+
+z.B. wenn man in Österreich produziert, muss man es teurere verkaufen aufgrund höherer Produktionskosten
+
+Globalisierung:
+
+* es gibt einen internationalen Handel
+** billigen Transport
+** Wissen, dass es im Ausland billiger ist
+
+=== Angebot, Nachfrage, Preis: Zeige anhand einer Grafik und mit den Bestimmungsfaktoren die Wirkungsweise, wie der Preis zustande kommt
+
