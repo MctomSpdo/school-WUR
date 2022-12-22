@@ -145,7 +145,28 @@ vertikale Arbeitsteilung: Sektoren
 
 ==== Arbeitssektoren
 
-~5 primärer sektor
+===== primärer Sektor
+
+Auch genannt Urproduktion
+
+Hierbei geht es um die Gewinnung der Rohstoffe.
+
+Beispiel: Land und Forstwirtschaft oder Fischerei
+
+
+===== sekundärer Sektor
+
+Auch genannte Industriesektor
+
+Hierbei geht es um die Verarbeitung der Rohstoffe
+
+z.B: Handwerk, Bauindustrie
+
+===== tertiärer Sektor
+
+Dienstleistungen
+
+z.B Verkäufer, Bankwesen
 
 
 === internationale Arbeitsteilung
